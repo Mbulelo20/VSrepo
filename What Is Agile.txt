@@ -1,0 +1,24 @@
+What Is Agile?
+
+Agile is a methodology that is used in managing large projects, such as software development. Agile involves designers, and developers, and business in breaking down the large project into iterations; iterations are small manageable chunks.
+
+Agile is dependent on the customer’s requirements, the final product, the ability to react to change after a plan and on the interactions of the individuals involved.
+
+These are some of the characteristics of Agile:
+
+°Modularity
+°Iterative
+°Time boxing
+°Parsimony
+°Incremental 
+
+Some of the advantages of  agile:
+
+° Agile is flexible: changes can be introduced during a later stage of development
+° It has sprints: set periods of time in which work has to be done and reviewed
+°  Small amounts of work are affected when clients add or remove some of requirements
+
+SCRUM
+
+In a  scrum, a backlog is set and continuously updated. Sprint, sprint planning, daily scrum (15 min team meeting), sprint review and sprint retrospective are all entailed in a scrum.
+

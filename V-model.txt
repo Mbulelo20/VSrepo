@@ -1,0 +1,16 @@
+								ADVANTAGES and DISADVANATAGES of the V model
+
+ADVANTAGES:
+	1.Covers all functional areas.
+	2.Contains instructions and recommendations, which provide a detailed explanation of problems involved.
+	3.Emphasizes the significance of testing and ensures that testing is planned
+	4.V-model is very easy and simple to utilize
+	5.V-model is very good for the small projects where all requirements are very clear and easily understandable .   
+	
+DISADVANATAGES:
+	1.The processes are institutionalized during the project and when the project is finished, they are abolished.
+	2.Very inflexible and lowest adaptable.
+	3.In the V-model, when there will any changes during the development then need to update all the testing documents besides
+	SRS docs. 
+	4.If any changes happen in midway, then the test documents along with requirement documents has to be updated.
+	5.Software is developed during the implementation phase, so no early prototypes of the software are produced.
